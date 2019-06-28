@@ -9,7 +9,7 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
-  	"apollo-cache-inmemory": "^1.6.0",
+    "apollo-cache-inmemory": "^1.6.0",
     "apollo-client": "^2.6.3",
     "apollo-link": "^1.2.11",
     "apollo-link-context": "^1.0.18",
