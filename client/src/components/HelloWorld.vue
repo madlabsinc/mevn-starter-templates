@@ -53,6 +53,14 @@
           >Twitter</a
         >
       </li>
+      <li>
+        <a
+          href="https://opencollective.com/mevn-cli"
+          target="_blank"
+          rel="noopener"
+          >Open Collective</a
+        >
+      </li>
     </ul>
     <h3>Ecosystem</h3>
     <ul>
