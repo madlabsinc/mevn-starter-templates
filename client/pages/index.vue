@@ -2,18 +2,21 @@
   <div class="container">
     <div>
       <logo />
-      <h1 class="title">
-        client
-      </h1>
+      <br />
+      <br />
       <h2 class="subtitle">
         Mevn starter template based on Nuxt-js
       </h2>
       <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green">
+        <a
+          href="https://mevn.madlabs.xyz"
+          target="_blank"
+          class="button--green"
+        >
           Documentation
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/madlabsinc/mevn-cli"
           target="_blank"
           class="button--grey"
         >
