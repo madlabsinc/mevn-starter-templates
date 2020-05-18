@@ -14,11 +14,11 @@
     "apollo-link": "^1.2.11",
     "apollo-link-context": "^1.0.18",
     "apollo-link-http": "^1.5.14",
+    "core-js": "^2.6.5",
     "graphql": "^14.4.0",
     "graphql-tag": "^2.10.1",
-    "vue-apollo": "^3.0.0-rc.1",
-    "core-js": "^2.6.5",
     "vue": "^2.6.10",
+    "vue-apollo": "^3.0.3",
     "vue-router": "^3.0.3"
   },
   "devDependencies": {
